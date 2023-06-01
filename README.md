@@ -1,4 +1,20 @@
-### Hi there 👋
+Hi there 👋, my name is Damon Morgan!
+
+🔭 I’m currently working on: 
+- Android Fitness Tracker App
+- Personal Website
+- Unity 2D Game
+
+🌱 I’m currently learning:
+- Java
+- C#
+
+⚡ Fun fact:
+- I played University football for 2 years.
+
+📫 How to reach me:
+- [Website](https://damonmorgan.net/)
+- [LinkedIn](https://www.linkedin.com/in/damon-morgan/)
 
 <!--
 **damon-morgan/damon-morgan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
