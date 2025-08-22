@@ -3,11 +3,10 @@ Hi there 👋, my name is Damon Morgan!
 🔭 I’m currently working on: 
 - Android Fitness Tracker App
 - Personal Website
-- Unity 2D Game
+- WMS Mobile App
 
 🌱 I’m currently learning:
 - Java
-- C#
 
 ⚡ Fun fact:
 - I played University football for 2 years.
